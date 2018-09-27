@@ -22,3 +22,11 @@ Rony
 Lucas
 Alvin
 Amelia
+
+### 리키, 제이콥 입사
+Rony
+Lucas
+Alvin
+Amelia
+Ricky
+Jacob
