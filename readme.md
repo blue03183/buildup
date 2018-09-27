@@ -32,3 +32,5 @@ Ricky
 Jacob
 
 ### Happy 추석
+
+### Rony 개발자 세미나 발표
