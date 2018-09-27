@@ -30,3 +30,5 @@ Alvin
 Amelia
 Ricky
 Jacob
+
+### Happy 추석
