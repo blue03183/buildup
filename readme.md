@@ -11,3 +11,14 @@ Lucas
 Alvin
 
 ### 아밀리아 입사
+Rony
+William
+Lucas
+Alvin
+Amelia
+
+### 안녕 윌리엄...ㅠ.,ㅜ
+Rony
+Lucas
+Alvin
+Amelia
