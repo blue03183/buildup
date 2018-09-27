@@ -9,3 +9,5 @@ Rony
 William
 Lucas
 Alvin
+
+### 아밀리아 입사
